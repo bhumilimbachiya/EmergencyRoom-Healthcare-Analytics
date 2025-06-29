@@ -10,7 +10,7 @@ Identify busiest days/times, average wait times, satisfaction patterns across de
 
 ### Overview  
 The Overview page displays total ER patient visits, gender distribution, and average wait times with trend lines.  
-![Overview Dashboard](Images/Overview.png) 
+![Overview Dashboard](Images/overview.png) 
 
 ### Wait Times Heat Map  
 A heat map showing average wait time by hour of day (x-axis) and weekday (y-axis), highlighting peak congestion periods.  
